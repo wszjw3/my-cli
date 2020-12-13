@@ -13,6 +13,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "commander": "^6.2.0"
+    "commander": "^6.2.0",
+    "download-git-repo": "^3.0.2",
+    "open": "^7.3.0"
   }
 }
